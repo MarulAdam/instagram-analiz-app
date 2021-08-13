@@ -15,3 +15,6 @@ Oldukça basit. Python dosyasının bulunduğu yere "images" adında bir klasör
 images adlı klasör aç
 
 python main.py
+
+
+![tanıtım](https://user-images.githubusercontent.com/80632086/129349520-f695429c-094c-4146-ac9d-4da322c28d50.png)
