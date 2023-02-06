@@ -1,4 +1,4 @@
-# Instagram-Analiz-App
+# Instagram Analiz App
 
 [1]HOW CAM I USE THIS ?
 
